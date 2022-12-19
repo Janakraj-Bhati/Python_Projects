@@ -12,3 +12,5 @@ Python Projects
 [5. Timer](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/Timer)
 
 [6. Image Downloader](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/Image%20Downloader)
+
+[7. Guess the Number](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/Guess%20The%20Number)
