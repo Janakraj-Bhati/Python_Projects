@@ -16,3 +16,5 @@ Python Projects
 [7. Guess the Number](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/Guess%20The%20Number)
 
 [8. Image Resizer](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/Resize%20Images)
+
+[9. Hangman](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/hangman)
