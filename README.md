@@ -18,3 +18,5 @@ Python Projects
 [8. Image Resizer](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/Resize%20Images)
 
 [9. Hangman](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/hangman)
+
+[10. Madlibs](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/madlibs)
