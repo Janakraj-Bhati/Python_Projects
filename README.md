@@ -22,3 +22,5 @@ Python Projects
 [10. Madlibs](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/madlibs)
 
 [11. Youtube Downloader](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/ytDownloader)
+
+[12. Translator](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/translator)
