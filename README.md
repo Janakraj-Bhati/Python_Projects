@@ -1,4 +1,4 @@
-# Python_Projects
+# Python Projects
 Python Projects
 
 [1. Name Generator](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/Name_Generator)
@@ -24,3 +24,11 @@ Python Projects
 [11. Youtube Downloader](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/ytDownloader)
 
 [12. Translator](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/translator)
+
+[13. Password Generator](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/Password%20Generator)
+
+[14. Calendar](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/Calendar)
+
+[15. Galaxy Image Generator](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/Galaxy%20Image)
+
+[16. Image with mp3](https://github.com/Janakraj-Bhati/Python_Projects/tree/main/Image%20with%20mp3)
